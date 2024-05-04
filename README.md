@@ -4,7 +4,7 @@ my linux commands
 
 #
 
-Sure, I can guide you through the process of enabling NFS on your Proxmox server and accessing it from Windows 11. Here are the steps:
+I can guide you through the process of enabling NFS on your Proxmox server and accessing it from Windows 11. Here are the steps:
 
 **On Proxmox Server:**
 
